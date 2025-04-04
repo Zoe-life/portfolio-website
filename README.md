@@ -15,7 +15,7 @@ This repository contains the code for my personal portfolio website, showcasing 
 
 ## Description
 
-This portfolio website is designed to provide a comprehensive overview of my professional experience as a software engineer. It includes sections for:
+This portfolio website includes sections for:
 
 * **Home:** A dynamic introduction with a typing animation and links to social media.
 * **About:** Information about my background, skills, and a downloadable CV.
