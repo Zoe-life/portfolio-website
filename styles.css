@@ -367,7 +367,7 @@ i {
 }
 
 
-/*----about into----*/
+/*----about info----*/
 .about-info {
     position: relative;
     display: flex;
@@ -469,7 +469,7 @@ i {
     position: relative;
     display: block;
     height: 100%;
-    width: 0%;
+    width: 90%;
     border-radius: 6px;
     background: #8749f2;
     animation: progress 0.4s ease-in-out forwards;
@@ -492,14 +492,18 @@ i {
     animation-delay: 0.1s;
     width: 40%;
 }
-.skill-per.mysql {
-    animation-delay: 0.1s;
-    width: 65%;
-}
+
 .skill-per.mongodb {
     animation-delay: 0.1s;
     width: 75%;
 }
+
+/*
+.skill-per.mysql {
+    animation-delay: 0.1s;
+    width: 65%;
+}
+
 .skill-per.python {
     animation-delay: 0.1s;
     width: 60%;
@@ -512,6 +516,7 @@ i {
     animation-delay: 0.1s;
     width: 30%;
 }
+*/
 
 @keyframes progress {
     0% {
@@ -545,6 +550,7 @@ i {
     width: 100%;
     justify-content: space-between;
     gap: 20px;
+    /*flex-direction: column;*/
     flex-wrap: wrap;
 }
 
@@ -554,8 +560,8 @@ i {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 20%;
-    height: 25px;
+    width: 30%;
+    height: 250px;
     background: transparent;
     border: 2px solid #fff;
     border-radius: 20px;
