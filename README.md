@@ -95,14 +95,3 @@ You can easily customize this portfolio to fit your own needs:
 * **Libraries:**
     * Typed.js: [https://github.com/mattboldt/typed.js/](https://github.com/mattboldt/typed.js/)
     * ScrollReveal: [https://github.com/jlmendonca/scrollreveal](https://github.com/jlmendonca/scrollreveal)
-
-## Contact
-
-You can reach me through the following:
-
-* Email: [merlynzaw@gmail.com](mailto:merlynzaw@gmail.com)
-* Phone: +254799459041
-* [LinkedIn]([https://www.linkedin.com/in/merlyn-zawadi-435852255/)](https://www.linkedin.com/in/merlyn-zawadi-435852255/)
-* [GitHub]([your_github_profile_url](https://github.com/Zoe-life))
-
-Feel free to connect!
