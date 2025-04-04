@@ -877,8 +877,20 @@ footer {
     .featured-name {
         font-size: 40px;
     }
-    .project-box {width: 100%;
+
+    .project-box {
+        width: 100%;
     }
-    .form-inputs {flex-direction: column;
+    
+    .form-inputs {
+        flex-direction: column;
     }
+    .input-field {
+        width: 100%;
+    }
+
+    .mode {
+        margin-left: 50%;
+    }
+
 }
