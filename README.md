@@ -102,7 +102,7 @@ You can reach me through the following:
 
 * Email: [merlynzaw@gmail.com](mailto:merlynzaw@gmail.com)
 * Phone: +254799459041
-* [LinkedIn]([your_linkedin_profile_url](https://www.linkedin.com/in/merlyn-zawadi-435852255/))
+* [LinkedIn]([https://www.linkedin.com/in/merlyn-zawadi-435852255/)](https://www.linkedin.com/in/merlyn-zawadi-435852255/))
 * [GitHub]([your_github_profile_url](https://github.com/Zoe-life))
 
 Feel free to connect!
