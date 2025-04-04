@@ -39,11 +39,11 @@ The site is built with HTML, CSS, and JavaScript, and it incorporates modern des
     * Implementation of dark mode functionality.
 
 ## File Structure
-.
-├── index.html       # Main HTML file for the portfolio
-├── styles.css       # CSS file for styling
-├── scripts.js       # JavaScript file for interactivity
-└── README.md        # Documentation for the project
+- .
+- ├── index.html       # Main HTML file for the portfolio
+- ├── styles.css       # CSS file for styling
+- ├── scripts.js       # JavaScript file for interactivity
+- └── README.md        # Documentation for the project
 
 ## Features
 
